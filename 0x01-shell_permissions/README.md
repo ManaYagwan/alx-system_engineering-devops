@@ -5,3 +5,4 @@ change ownership
 create empty file
 gives permissions
 gives multiple permissions
+give only others permission
