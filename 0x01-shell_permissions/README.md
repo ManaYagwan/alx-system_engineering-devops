@@ -7,3 +7,4 @@ gives permissions
 gives multiple permissions
 give only others permission
 mirrors permission
+grant permission to all dir
