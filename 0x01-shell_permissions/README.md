@@ -8,3 +8,4 @@ gives multiple permissions
 give only others permission
 mirrors permission
 grant permission to all dir
+change the group owner
