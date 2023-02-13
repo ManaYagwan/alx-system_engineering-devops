@@ -5,3 +5,4 @@ displays the content of two file
 displays last 10 lines
 displays first 10 lines
 displays first 3 lines
+create file
