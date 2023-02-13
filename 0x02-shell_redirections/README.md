@@ -9,3 +9,4 @@ create file
 sends the result of a file to another
 duplicate
 delete .js files
+counting number of directories
