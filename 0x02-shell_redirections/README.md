@@ -11,3 +11,4 @@ duplicate
 delete .js files
 counting number of directories
 displays number of new directories
+prints words that appear once
